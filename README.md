@@ -1,0 +1,1 @@
+# bootstrap patika dev ödevidir
